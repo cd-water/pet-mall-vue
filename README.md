@@ -80,6 +80,36 @@
 <img width="3184" height="1748" alt="Snipaste_2025-10-20_19-40-49" src="https://github.com/user-attachments/assets/bed1a32f-b98b-41dd-b2d5-00ce879cd6b1" />
 
 
+**管理员端页面**
+
+* 工作台
+<img width="3184" height="1748" alt="Snipaste_2025-10-20_19-46-12" src="https://github.com/user-attachments/assets/56d93d04-14d7-4050-a929-2cb42f37b8ce" />
+
+* 宠物类型
+<img width="3184" height="1748" alt="Snipaste_2025-10-20_19-46-20" src="https://github.com/user-attachments/assets/d0036377-6dae-4dce-836f-c6ecfe0d17c2" />
+
+* 商品类型
+<img width="3184" height="1748" alt="Snipaste_2025-10-20_19-46-27" src="https://github.com/user-attachments/assets/a2ccb4ed-66b5-40b0-950d-9b0a85389bd8" />
+
+* 宠物管理/商品管理/宠物订单/商品订单（与宠物店端类似，区别管理员端可查询全部宠物店信息）
+
+* 轮播图
+<img width="3184" height="1748" alt="Snipaste_2025-10-20_19-46-33" src="https://github.com/user-attachments/assets/aeb7ed25-bbaf-4318-ab42-a6109339b272" />
+
+
+* 系统公告
+<img width="3184" height="1748" alt="Snipaste_2025-10-20_19-46-39" src="https://github.com/user-attachments/assets/eb3d8f18-9609-4850-a9ba-a741ad8aa39b" />
+
+* 用户管理
+<img width="3184" height="1748" alt="Snipaste_2025-10-20_19-46-45" src="https://github.com/user-attachments/assets/efd0868e-a5e8-4b97-b249-285786a3e70f" />
+
+* 宠物店管理
+<img width="3184" height="1748" alt="Snipaste_2025-10-20_19-46-51" src="https://github.com/user-attachments/assets/a93dce91-91a3-494b-8474-4638c9201aab" />
+
+* 管理员管理
+<img width="3184" height="1748" alt="Snipaste_2025-10-20_19-46-56" src="https://github.com/user-attachments/assets/1ca0e181-41fe-42e0-ad80-8560a0fd0bbd" />
+
+
 
 
 
