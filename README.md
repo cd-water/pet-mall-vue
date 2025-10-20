@@ -175,7 +175,27 @@ onMounted(() => {
 
 参考文档：https://maxkb.cn/docs/v2/
 
-项目文件index.html
+项目文件index.html中修改src="你的MaxKB嵌入第三方的url"
 
+```
+<!doctype html>
+<html lang="">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>宠物电商</title>
+  </head>
+  <body>
+    <div id="app"></div>
+    <script type="module" src="/src/main.js"></script>
+    <script
+      async
+      defer
+      src="你的MaxKB嵌入第三方的url"
+    ></script>
+  </body>
+</html>
+```
 
 
