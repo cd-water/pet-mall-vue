@@ -171,6 +171,11 @@ onMounted(() => {
 })
 ```
 
+**MaxKB智能体接入
+
+参考文档：https://maxkb.cn/docs/v2/
+
+项目文件index.html
 
 
 
