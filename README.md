@@ -1,35 +1,88 @@
-# pet-mall-vue
+# 宠物电商前端
 
-This template should help get you started developing with Vue 3 in Vite.
+宠物电商后端链接[cd-water/pet-mall-java](https://github.com/cd-water/pet-mall-java)
 
-## Recommended IDE Setup
+**前端技术栈：**
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+* vue3
+* element-plus
+* axios
+* pinia
+* vue-router
+* echarts
 
-## Customize configuration
+# 项目演示
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+**用户/游客访问页面**
 
-## Project Setup
+* 电商首页
+<img width="3184" height="1748" alt="Snipaste_2025-10-20_19-27-41" src="https://github.com/user-attachments/assets/6930289e-1852-4cd1-a3e8-af5e8cfd5c37" />
 
-```sh
-pnpm install
-```
+<img width="3184" height="1748" alt="Snipaste_2025-10-20_19-28-03" src="https://github.com/user-attachments/assets/de1c8aeb-98ed-42b6-9d3f-a88cbbfd90b9" />
 
-### Compile and Hot-Reload for Development
+<img width="3184" height="1748" alt="Snipaste_2025-10-20_19-28-13" src="https://github.com/user-attachments/assets/24ad5e6d-fd19-4915-a481-015b93ab16a1" />
 
-```sh
-pnpm dev
-```
+* 宠物店浏览
+<img width="3184" height="1748" alt="Snipaste_2025-10-20_19-30-47" src="https://github.com/user-attachments/assets/5be62ef4-b440-476b-bc71-478a1535f094" />
 
-### Compile and Minify for Production
+<img width="3184" height="1748" alt="Snipaste_2025-10-20_19-29-51" src="https://github.com/user-attachments/assets/94e0ac50-fd81-4227-bc6a-e6d462cd4ee6" />
 
-```sh
-pnpm build
-```
+* 宠物浏览
+<img width="3184" height="1748" alt="Snipaste_2025-10-20_19-14-42" src="https://github.com/user-attachments/assets/964fb08c-fd2f-4af4-9be8-810bcbfbc0e4" />
 
-### Lint with [ESLint](https://eslint.org/)
+<img width="3184" height="1748" alt="Snipaste_2025-10-20_19-31-47" src="https://github.com/user-attachments/assets/1aaa0e37-49ea-46ec-becd-357e690c5605" />
 
-```sh
-pnpm lint
-```
+* 宠物用品浏览
+<img width="3184" height="1748" alt="Snipaste_2025-10-20_19-14-50" src="https://github.com/user-attachments/assets/fe3e5dd9-8b3d-4d18-94ff-e5ebc56ae1b3" />
+
+<img width="3184" height="1748" alt="Snipaste_2025-10-20_19-33-54" src="https://github.com/user-attachments/assets/8c651aad-a659-4746-97be-d5b061050300" />
+
+* 购物车
+<img width="3184" height="1748" alt="Snipaste_2025-10-20_19-14-59" src="https://github.com/user-attachments/assets/478c930e-3eb6-49f6-a57a-2b8c2bc88751" />
+
+* 我的订单
+<img width="3184" height="1748" alt="Snipaste_2025-10-20_19-15-11" src="https://github.com/user-attachments/assets/5a318907-cd87-4527-8a31-6c885ba30cb3" />
+
+* 个人资料
+<img width="3184" height="1748" alt="Snipaste_2025-10-20_19-36-09" src="https://github.com/user-attachments/assets/5a9e1367-1b75-4a58-a95a-e1dd879fdc05" />
+
+* 修改密码
+<img width="3184" height="1748" alt="Snipaste_2025-10-20_19-36-54" src="https://github.com/user-attachments/assets/1b3dd5fe-1ded-4653-87bb-6b68725da834" />
+
+* 我的收藏
+<img width="3184" height="1748" alt="Snipaste_2025-10-20_19-37-21" src="https://github.com/user-attachments/assets/251c0b0d-e178-413c-9f3e-6df035dabb85" />
+
+* 地址管理
+<img width="3184" height="1748" alt="Snipaste_2025-10-20_19-37-50" src="https://github.com/user-attachments/assets/7b97891f-f965-49f2-bda8-4f4c20138d00" />
+
+
+**宠物店端页面**
+
+* 工作台
+<img width="3184" height="1748" alt="Snipaste_2025-10-20_19-39-49" src="https://github.com/user-attachments/assets/f7045add-6bbf-47fc-b41a-dec60837f393" />
+
+* 宠物管理
+<img width="3184" height="1748" alt="Snipaste_2025-10-20_19-40-01" src="https://github.com/user-attachments/assets/34a565cc-fe23-4e33-a573-cd8a54593d52" />
+
+* 商品管理
+<img width="3184" height="1748" alt="Snipaste_2025-10-20_19-40-09" src="https://github.com/user-attachments/assets/23f970c6-98df-48c7-8305-bfc35159a046" />
+
+* 宠物订单
+<img width="3184" height="1748" alt="Snipaste_2025-10-20_19-40-16" src="https://github.com/user-attachments/assets/f28a662c-4cc8-4ad0-b229-ec590f8f8bb5" />
+
+* 商品订单
+<img width="3184" height="1748" alt="Snipaste_2025-10-20_19-40-22" src="https://github.com/user-attachments/assets/74d60c0b-53cb-4fcb-ae54-264f30272a56" />
+
+* 个人资料
+<img width="3184" height="1748" alt="Snipaste_2025-10-20_19-40-38" src="https://github.com/user-attachments/assets/f8c60c70-bcf3-4cfd-abb2-c265ddc7cc66" />
+
+* 认证申请
+<img width="3184" height="1748" alt="Snipaste_2025-10-20_19-40-49" src="https://github.com/user-attachments/assets/bed1a32f-b98b-41dd-b2d5-00ce879cd6b1" />
+
+
+
+
+
+
+
+
