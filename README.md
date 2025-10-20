@@ -171,7 +171,7 @@ onMounted(() => {
 })
 ```
 
-**MaxKB智能体接入
+**MaxKB智能体接入**
 
 参考文档：https://maxkb.cn/docs/v2/
 
