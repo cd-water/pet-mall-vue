@@ -1,6 +1,6 @@
 # 宠物电商前端
 
-宠物电商后端链接[cd-water/pet-mall-java](https://github.com/cd-water/pet-mall-java)
+宠物电商后端===> [cd-water/pet-mall-java](https://github.com/cd-water/pet-mall-java)
 
 **前端技术栈：**
 
