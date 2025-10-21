@@ -17,6 +17,10 @@
 # 项目演示
 
 **登录页面**
+
+**初始管理员密码为Aa123456(md5加密)**
+
+**新注册账号密码为Aa123456(md5加密)**
 <img width="3184" height="1748" alt="Snipaste_2025-10-20_20-11-19" src="https://github.com/user-attachments/assets/ff9f6eef-0720-4fce-b54b-be4eb0371ea6" />
 
 
